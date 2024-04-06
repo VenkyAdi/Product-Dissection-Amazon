@@ -12,7 +12,7 @@ The schema description outlines the structure of the database, detailing the ent
 
 ### Entity-Relationship Diagram (ERD)
 An Entity-Relationship Diagram (ERD) visualizes the relationships between different entities in the database schema. By visualizing the connections between customers, orders, products, payments, shipments, and other entities, the ERD offers a clear representation of how data flows within the Amazon platform.
-![Untitled Diagram (1)]![schema drawio](https://github.com/VenkyAdi/Product-Dissection-Amazon/assets/38469568/569ccee5-a097-4a90-ad3e-c2d529f97925)
+![schema drawio](https://github.com/VenkyAdi/Product-Dissection-Amazon/assets/38469568/569ccee5-a097-4a90-ad3e-c2d529f97925)
 
 
 ### Conclusion
