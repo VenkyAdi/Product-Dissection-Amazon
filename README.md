@@ -1,4 +1,5 @@
 ## Product Dissection: Amazon E-commerce Platform
+![kisspng-amazon-com-logo-retail-brand-publishing-chat-room-logo-5ae868f510e770 1581033615251806610693-removebg-preview](https://github.com/VenkyAdi/Product-Dissection-Amazon/assets/38469568/1feeec71-010f-4822-b89e-58cd92de61ae)
 
 ### Overview
 This repository contains a detailed product dissection of the Amazon e-commerce platform, focusing on the underlying methods and database schemas that power its functionality. By analyzing the key relationships and entities within the database schema, this project aims to provide insights into how Amazon manages user interactions, product inventory, and transactional data.
@@ -11,6 +12,7 @@ The schema description outlines the structure of the database, detailing the ent
 
 ### Entity-Relationship Diagram (ERD)
 An Entity-Relationship Diagram (ERD) visualizes the relationships between different entities in the database schema. By visualizing the connections between customers, orders, products, payments, shipments, and other entities, the ERD offers a clear representation of how data flows within the Amazon platform.
+![Untitled Diagram (1)](https://github.com/VenkyAdi/Product-Dissection-Amazon/assets/38469568/2ab77180-229f-43bf-9ca6-d018f67f643d)
 
 ### Conclusion
 The dissection of the Amazon e-commerce platform sheds light on its robust database architecture, which forms the backbone of its seamless user experience. Through meticulous schema design and effective management of entity relationships, Amazon has established itself as a leader in the e-commerce industry, providing customers with a convenient and reliable shopping experience.
